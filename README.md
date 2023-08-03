@@ -10,9 +10,14 @@ En la siguiente figura se presenta un ejemplo de lesión de piel. Dicha lesión 
 
 Para este proyecto, se utilizo una subbase de imagenes, basada en los datos proporcionados en la competencia [ISIC de 2017](https://challenge.isic-archive.com/data/#2017). Ademas, se uso una base pequeña basada en la la competencia [ISIC de 2018](https://challenge.isic-archive.com/data/#2018), la cual contiene imágenes seleccionadas manualmente.
 
-Dentro del directorio **page_conf**, se encuentra la carpeta **source**, donde se presentan los notebooks con los códigos más relevantes del proyecto. Quitando *source_separacion_train_val_test*, el cual es puramente ilustrativo para mostrar como se realizó la separación en los diferentes conjuntos, todos se pueden ejecutar sin errores.
+En el repositorio se encunetran los notebooks relacionados con cada etapa del modelo, las cuales se pueden ver en la siguiente imagen.
 
-Ademas, dentro del directorio **source** se encuentra una carpeta llamada **Subconjunto_2018**. En la cual se encuentran disponibles las imágenes de la subbase 2018.
+<figure>
+  <img src="lesiones_de_piel_bloques.png" width="600">
+  <figcaption>
+  Ejemplo de imagen de lesión de piel.
+  </figcaption>
+</figure>
 
 Equipo:
 - Pedro Pertusso
