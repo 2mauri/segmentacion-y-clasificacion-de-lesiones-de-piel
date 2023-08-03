@@ -15,5 +15,5 @@ Dentro del directorio **page_conf**, se encuentra la carpeta **source**, donde s
 Ademas, dentro del directorio **source** se encuentra una carpeta llamada **Subconjunto_2018**. En la cual se encuentran disponibles las imágenes de la subbase 2018.
 
 Equipo:
-  Pedro Pertusso
-  Mauricio Olivera
+- Pedro Pertusso
+- Mauricio Olivera
