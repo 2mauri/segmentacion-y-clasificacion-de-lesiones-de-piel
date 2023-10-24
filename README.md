@@ -20,5 +20,5 @@ En el repositorio se encunetran los notebooks relacionados con cada etapa del mo
 </figure>
 
 Equipo:
-- Pedro Pertusso
-- Mauricio Olivera
+- Pedro Pertusso - pedropertusso@gmail.com
+- Mauricio Olivera - oliveramauricio1229@gmail.com
